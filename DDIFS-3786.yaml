@@ -1,0 +1,8 @@
+service_specification: Business Unit
+environment: CTE
+source_system: CBD-HELENA
+target_system: CALC
+e2e_flow: CBD - Helena- DXI Data Cache- CALC
+type: Baseload
+technology: ODI
+jira_key: DDIFS-3786
